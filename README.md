@@ -66,7 +66,7 @@
 <a href="https://ar1hant.github.io/second/"><img src="https://img.shields.io/badge/-_Arihant_Daga-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ar1hant-daga/"><img src="https://img.shields.io/badge/-_Arihant_Daga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arihantdaga100@gmail.com"><img src="https://img.shields.io/badge/-arihantdaga100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_abhishek_chauhan_09/"><img src="https://img.shields.io/badge/-_Arihant_Daga-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/razziil/"><img src="https://img.shields.io/badge/-_Arihant_Daga-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://romantic-beaver-da4687.netlify.app/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 
 </p>
